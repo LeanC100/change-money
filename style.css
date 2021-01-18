@@ -1,0 +1,16 @@
+body{
+    background-image: url(./assets/web\ wallpaper\ website\ 1920x1200.gif);
+}
+.container-fluid{
+    margin-top: 5%;
+    max-width: 380px;
+}
+.text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.5em;
+    color:#ffffff;
+    text-align: center;
+} 
+.currency{
+    font-size: 1.35em;
+}
